@@ -31,8 +31,7 @@ class Student
     }
 }
 // Creating student objects
-$student1 = new Student("Kiran Raj", 26, "Male", "BTech", "456 2nd cross 
-vijayanagara,Mysore");
+$student1 = new Student("Kiran Raj", 26, "Male", "BTech", "456 2nd cross vijayanagara,Mysore");
 // Remaining objects still exist
 echo "<p>Address information destroyed.</p>";
 echo "<p>Remaining Student Objects:</p>";
